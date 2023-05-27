@@ -30,7 +30,7 @@ Mathematics Strand
   <p>Address: East Service Road, Western Bicutan, Taguig City
   <p>Graceville Sci-tech Learning Center: June 2008 – March 2010
   <p>Address: Graceville, Peter Street, San Jose Del Monte City
-  <p>  <strong>SKILLS </strong>21
+  <p>  <strong>SKILLS </strong>
   <p>• Programing Skills: JAVA, C++
   <p>• Excellent troubleshooting abilities with the skill to design thoroughly studied, effective
 solutions following code analysis.
