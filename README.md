@@ -43,7 +43,6 @@ solutions following code analysis.
     <p> Western Bicutan National High School: 2017 – 2018
    <li>Red Cross Youth(First Aid/Basic Life Support)li>
     <p> Western Bicutan National High School: 2017 – 2018
-  </ul>
   
   <p>  <strong>ACHIEVEMENTS</strong>
   <ul>
