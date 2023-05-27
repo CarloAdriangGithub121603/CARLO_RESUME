@@ -1,6 +1,6 @@
 # CARLO_RESUME
 
-![FINALNATO](https://github.com/Abella191/Abella_Resume/assets/133955530/78fbc547-a653-4e35-9942-0e53a48b3eb2)
+![FINALNATO](https://stieducampus-my.sharepoint.com/:i:/g/personal/ecleo_121603_sjdelmonte_sti_edu_ph/EYJ7jWyeTRBBk1YwaEWnXGIBkXMdNaQ8bWmxinxPTpS4kQ?e=BvBgHV)
 
   <p> <strong>Name:</strong> CARLO ADRIAN CANOY ECLEO
   <p> <strong>Address:</strong> Block 18, Lot 6, Phase 12 Tala, Brgy.188, Caloocan City
