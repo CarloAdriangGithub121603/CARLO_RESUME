@@ -14,44 +14,38 @@
   <p><strong>EDUCATIONAL BACKGROUND</strong>
   <p><strong>COLLEGE</strong>
   <p>Bachelor of Science in Computer Engineering
-  <p>Systems Technology Institute College SJDM
+  <p>Systems Technology Institute (STI) College SJDM: Sptember 2021 – Present
   <p>Quirino Highway, Tungkong Mangga, San Jose Del
 Monte City
   <p><strong>SENIOR HIGH SCHOOL</strong>
-  <p>Address: San Jose Del Monte Bulacan
-Senior High School:First City Providential College
-S.Y.2019 -2020
+  <p>Science, Technology, Engineering, and
+Mathematics Strand
+  <p>Systems Technology Institute (STI) College Fairview: June 2018 – April 2020
+  <p>70 Regalado Avenue, Novaliches, Quezon City
   <p><strong>JUNIOR HIGH SCHOOL</strong>
-  <p>Address: Bonawon, siaton Negros Oriental
-Junior High School: Maria macahig memorial high school
-S.Y.2014-2018
+  <p>Western Bicutan National High School: June 2014 – April 2018
+  <p>EPVillage, Phase 1, Pinagsama, Taguig City
   <p><strong>ELEMENTARY</strong>
-  <p>Address: Lico lico bonawon, siaton,  Negros oriental, Lico lico elementary school S.Y. 2009-2014
+  <p>Tenement Elementary School: June 2010 – March 2014
+  <p>East Service Road, Western Bicutan, Taguig City
+  <p>Graceville Sci-tech Learning Center: June 2008 – March 2010
+  <p>Graceville, Peter Street, San Jose Del Monte City
+  <p>  <strong>SKILLS </strong>21
+  <p>• Programing Skills: JAVA, C++
+• Excellent troubleshooting abilities with the skill to design thoroughly studied, effective
+solutions following code analysis.
+• Acquainted in data structures and algorithms with accuracy and attention to detail.
+• Knowledgeable in processes and tools to design avant-garde software solutions.
     
-  <p>  <strong>Age: </strong>21
-  <p>  <strong>Date of birth: </strong>August 11 2001
-  <p>  <strong>Place of birth: </strong>Lico - Lico,  Bonawon, Siaton, Negros Oriental 
-  <p>  <strong>Gender: </strong>Female
-  <p>  <strong>Civil Status: </strong>Single
-  <p>  <strong>Nationality: </strong>Filipino
-  <p>  <strong>Religion: </strong>Seventh day Adventist 
-  <p>  <strong>Height: </strong>5'2
-  <p>  <strong>Language Spoken: </strong>Filipino and English  language
-  <p>  <strong>Mother: </strong>Carmencita B. Abella
-  <p>  <strong>Occupation: </strong>House wife
-  <p>  <strong>Father: </strong>David V. Abella
-  <p>  <strong>Occupation: </strong>Fisherman
-    
-  <p>  <strong>SPECIAL SKILLS</strong>
+  <p>  <strong>EXTRA-CURICULAR ACTIVITIES</strong>
   <ul>
-   <li>Having a values of honesty  and respect</li>
-    <li>Having a good communication skills in Filipino and English language</li>
+   <li>Citizenship Advancement Training</li>
+    <p> Western Bicutan National High School: 2017 – 2018
+   <li>Red Cross Youth(First Aid/Basic Life Support)li>
+    <p> Western Bicutan National High School: 2017 – 2018
   </ul>
   
   <p>  <strong>ACHIEVEMENTS AND AWARDS RECEIVED </strong>
   <ul>
-    <li>With honors( Grade 6 ) In Lico lico elementary School 
-TRAININGS AND SEMINARS ATTENDED</li>
-    <li>International Seminar on 21st Century Education(9/18/2019)</li>
-    <li>Complete 300hrs of work immersion In OWWA  (2019-2020 )</li>
-  </ul>
+    <li>President List 1st Sem SY2021 - 2023
+    <li>Deans List 1st Sem SY2022 - 2023
