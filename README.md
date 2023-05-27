@@ -12,6 +12,11 @@
   </ul>
     
   <p><strong>EDUCATIONAL BACKGROUND</strong>
+  <p><strong>COLLEGE</strong>
+  <p>Bachelor of Science in Computer Engineering
+  <p>Systems Technology Institute College SJDM
+  <p>Quirino Highway, Tungkong Mangga, San Jose Del
+Monte City
   <p><strong>SENIOR HIGH SCHOOL</strong>
   <p>Address: San Jose Del Monte Bulacan
 Senior High School:First City Providential College
