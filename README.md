@@ -41,7 +41,7 @@ solutions following code analysis.
   <ul>
    <li>Citizenship Advancement Training</li>
     <p> Western Bicutan National High School: 2017 – 2018
-   <li>Red Cross Youth(First Aid/Basic Life Support)li>
+   <li>Red Cross Youth(First Aid/Basic Life Support)</li>
     <p> Western Bicutan National High School: 2017 – 2018
   
   <p>  <strong>ACHIEVEMENTS</strong>
